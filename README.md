@@ -1,14 +1,15 @@
-Persona theme for NodeBB
-====================
+wow theme for our forum
 
-Persona is the new default theme for NodeBB as of v0.7.1
+do not use if u are not in our group.
 
-## Addons
+==============================
 
-[Recent Cards](https://github.com/psychobunny/nodebb-plugin-recent-cards)
+the original theme:
+这是现在我改完之后的= =。包括categories/xx.tpl 和categories.tpl, category.tpl. 都有稍微的改动。我所有的改动目前要么是添加　style="" 要么是用<!-- 和 --> 给comment掉了。
 
-## Screenshots
+我没改太多也忘了注释＝　＝
 
-![](https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/570/286/570286-db378dfd28256a8fabacc9129b3638dc678ac393.png?1439315393)
+在ｓｓｈ里或者下载到本地改动都可以
+然后ｐｕｌｌ　ｒｅｑｕｅｓｔ，　改动的时候最好在每处都加个注释……怕看不懂
 
-![](https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/570/287/570287-5875c63ce086d361b76d94e5bc7cc88a5fd34b8b.png?1439315419)
+ｔｈａｔ＇ｉｔ
