@@ -14,24 +14,7 @@
 				<!-- IMPORT partials/categories/item.tpl -->
 				<!-- END categories -->
 			</ul>
-		<!--	<div class="category"style="display:inline-block;right: 10%;position: absolute;width:15%">
-				<ul>
-					<li>
-			<div class="card" style="background-color:rgba(131, 228, 255, 0.18);text-align:center">
-				<p style="margin-top:5px"><u>	黑暗之门<script>document.write(new Date().getFullYear())</script>年</u></p>
-				<div>					
-					<script>	
-							var date1 = new Date();
-							var date2 = new Date("4/18/2018");
-							var timeDiff = Math.abs(date2.getTime() - date1.getTime());
-							var diffDays = Math.ceil(timeDiff / (1000 * 3600 * 24)); 
-							document.write("纸房子成立 " + diffDays + "天");
-					</script>
-				</div>
-				<p id="online-users-badge"></p>
-			</div></li>
-			</ul> 
-			</div> -->
+			<!-- IMPORT partials/category/badge.tpl -->
 		</div>
 	</div>
 	<div widget-area="sidebar" class="col-lg-3 col-sm-12 <!-- IF !widgets.sidebar.length -->hidden<!-- ENDIF !widgets.sidebar.length -->">
