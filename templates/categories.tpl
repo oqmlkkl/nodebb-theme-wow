@@ -14,7 +14,7 @@
 				<!-- IMPORT partials/categories/item.tpl -->
 				<!-- END categories -->
 			</ul>
-			<div class="category"style="display:inline-block;right: 10%;position: absolute;width:15%">
+		<!--	<div class="category"style="display:inline-block;right: 10%;position: absolute;width:15%">
 				<ul>
 					<li>
 			<div class="card" style="background-color:rgba(131, 228, 255, 0.18);text-align:center">
@@ -30,8 +30,8 @@
 				</div>
 				<p id="online-users-badge"></p>
 			</div></li>
-			</ul>
-			</div>
+			</ul> 
+			</div> -->
 		</div>
 	</div>
 	<div widget-area="sidebar" class="col-lg-3 col-sm-12 <!-- IF !widgets.sidebar.length -->hidden<!-- ENDIF !widgets.sidebar.length -->">
