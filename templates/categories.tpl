@@ -5,7 +5,7 @@
 	<!-- END widgets.header -->
 </div>
 
-<div class="row" style="background-image: url('https://wallpapertag.com/wallpaper/full/5/5/1/35799-vertical-wow-wallpaper-1920x1200-screen.jpg')">
+<div class="row">
 	<div class="<!-- IF widgets.sidebar.length -->col-lg-9 col-sm-12<!-- ELSE -->col-lg-12<!-- ENDIF widgets.sidebar.length -->">
 		<h1 class="categories-title">[[pages:categories]]</h1>
 		<div>
@@ -14,7 +14,7 @@
 				<!-- IMPORT partials/categories/item.tpl -->
 				<!-- END categories -->
 			</ul>
-			<!-- IMPORT partials/category/badge.tpl -->
+		
 		</div>
 	</div>
 	<div widget-area="sidebar" class="col-lg-3 col-sm-12 <!-- IF !widgets.sidebar.length -->hidden<!-- ENDIF !widgets.sidebar.length -->">

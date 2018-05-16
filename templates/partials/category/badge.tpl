@@ -8,8 +8,9 @@
                 </div>
             </li>
         </ul> 
-        <script language="JavaScript" type="text/javascript">
-            {literal}
+	<script language="javascript" src="./../../../lib/setbadge.js"></script>
+<!--        <script language="javascript" type="text/javascript">
+            {literal} 
             var settings = {
                 "async": true,
                 "crossDomain": true,
@@ -27,5 +28,5 @@
                 $('#elapsed-time-badge')[0].innerHTML =  "成立" + diffDays + "天";
             });
             {/literal}
-        </script>
+        </script> -->
 </div>
